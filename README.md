@@ -1,74 +1,120 @@
 # Klinik Melba | Website Development
 
-## About the Project
+**Frontend Development | Web Design | Database Management | System Integration**
 
-Klinik Melba is a professional business website that I independently designed and developed for a beauty clinic in Denmark.
+## Project Overview
 
-The project was carried out in close collaboration with Melba, beginning with discussions about her vision, design preferences and business requirements. Based on her feedback, I developed a complete website tailored to the clinic's identity and customer needs.
+Klinik Melba is a professional business website that I independently designed, developed and deployed for an aesthetics clinic in Denmark.
 
-I was responsible for the entire development process, including planning, interface design, frontend development, database work, testing and deployment.
+The project was developed in close collaboration with Melba, the clinic's owner. Through discussions about her vision, business requirements and design preferences, I translated her ideas into a complete website tailored to the clinic's identity and customer needs.
 
-The website has been operating successfully for over a year and continues to support the clinic's daily operations. Melba has expressed great satisfaction with the final product, its functionality and its overall design.
+I was responsible for the entire development process, including planning, frontend development, database related work, responsive design, testing and deployment.
+
+The website has been operating successfully for over a year and continues to support the clinic's daily operations. Melba has expressed great satisfaction with the finished product and its performance.
+
+**Website:** https://klinikmelba.dk/
 
 ## Technologies Used
 
 | Technology | Application |
 |---|---|
-| HTML5 | Semantic website structure and content organisation |
-| CSS3 | Visual styling, responsive layouts and interface design |
-| JavaScript | Interactive elements and frontend functionality |
+| HTML5 | Website structure, semantic markup and content organisation |
+| CSS3 | Responsive layouts, visual styling and interface design |
+| JavaScript | Interactive components, dropdown menus and dynamic functionality |
 | SQL / MySQL | Database operations and data management |
-| Git / GitHub | Version control and project management |
+| Git / GitHub | Version control and development workflow |
+| GECKO | Integration with an external appointment booking platform |
 
-## Website Features
+## Technical Implementation
 
-### Responsive Design
+### Interactive Treatment Pages and FAQ
 
-The website provides a consistent and accessible experience across desktop, tablet and mobile devices, with layouts adapted to different screen sizes.
+I developed dedicated pages for the clinic's treatments, including Botox, fillers and skinbooster.
 
-### Treatment and Service Information
+Each treatment page provides structured information to help customers understand the available services, treatment procedures and relevant aftercare.
 
-The website presents the clinic's treatments, pricing and relevant customer information through a clear and structured interface.
+I also implemented interactive FAQ sections where visitors can expand frequently asked questions to view detailed answers.
+
+This functionality allows users to access relevant information without leaving the treatment page, improving usability while keeping the interface organised.
+
+### Responsive Frontend Development
+
+I developed responsive layouts to ensure that the website adapts to desktop, tablet and mobile devices.
+
+The mobile version includes an adapted navigation menu, vertically arranged content sections and responsive booking and contact buttons.
+
+The interface was designed to maintain readability, consistent styling and straightforward navigation across different screen sizes.
 
 ### GECKO Booking Integration
 
-The website is connected to the GECKO online booking platform, allowing customers to access the clinic's appointment booking system.
+I connected the website to GECKO, an external appointment booking platform used by the clinic.
 
-Through GECKO, customers can:
+The booking integration enables customers to browse available treatments, select services, review booking conditions and continue through the appointment booking process.
 
-- Browse available treatments
-- Select their preferred services
-- Review booking conditions and cancellation policies
-- Continue through the appointment booking process
+This provides a connection between the website and the clinic's appointment management system without requiring a separate booking application.
 
-The integration provides a convenient connection between the clinic's website and its appointment management system.
+### Contact Form and Customer Communication
 
-### User Experience and Navigation
+I implemented a contact page with structured form fields for customer enquiries.
 
-The website was structured to make information easily accessible, with particular attention to intuitive navigation, readability and a straightforward customer journey.
+The form includes fields for name, email address and message, alongside privacy policy acknowledgement and spam protection.
+
+The page also provides the clinic's contact details, making it easy for customers to get in touch.
+
+### Navigation and User Experience
+
+I developed a navigation structure that provides access to treatment information, pricing, clinic details, contact information and booking.
+
+Interactive dropdown menus organise the available treatments, while clearly positioned booking buttons guide visitors towards the appointment process.
+
+The website was designed with an emphasis on usability, visual consistency and intuitive customer navigation.
 
 ## Development Process
 
-The development process began by identifying the clinic's requirements through direct communication with Melba.
+The development process began with identifying the clinic's requirements through direct communication with Melba.
 
-I independently managed the technical development and website implementation while maintaining regular communication to ensure that the design and functionality aligned with her expectations.
+I planned the website structure and visual design based on her preferences, then independently implemented the website and its functionality.
 
-Throughout the project, I incorporated her feedback and adjusted the website to match the clinic's visual identity and operational needs.
+Throughout development, I incorporated her feedback to ensure that the final product reflected the clinic's identity and practical needs.
 
-The result is a fully functional business website that has remained in successful operation for over a year and continues to meet the client's expectations.
+The completed website was tested and deployed under the clinic's domain.
 
 ## Project Outcome
 
-This project demonstrates my ability to independently deliver a complete digital solution for a real business.
+The project resulted in a fully functional website that has been in operation for over a year.
 
-It strengthened my practical experience in frontend development, database technologies, responsive web design, client communication and the implementation of external booking solutions.
+It demonstrates my ability to independently deliver a digital solution for a real business, combining technical development, responsive design, third party integration and client communication.
 
-Most importantly, the website continues to be used by the business, providing a practical example of a completed and successfully deployed project.
+The website continues to serve the clinic's customers, and the client remains satisfied with its design and functionality.
 
-## Website
+## Website Screenshots
 
-https://klinikmelba.dk/
+### Homepage
 
-## Screenshots
+![Klinik Melba Homepage](screenshots/homepage.png)
 
-Screenshots showcasing the website's design, service pages and booking functionality are available in the `screenshots` directory.
+### Responsive Mobile Design
+
+**Mobile Homepage**
+
+![Klinik Melba Mobile Homepage](screenshots/mobile-homepage.png)
+
+**Mobile Contact Page**
+
+![Klinik Melba Mobile Contact Page](screenshots/mobile-contact-page.png)
+
+### GECKO Booking Integration
+
+![GECKO Booking Integration](screenshots/gecko-booking-integration.png)
+
+### Appointment Booking
+
+![GECKO Appointment Selection](screenshots/gecko-appointment-selection.png)
+
+### Contact Form
+
+![Klinik Melba Contact Page](screenshots/contact-page.png)
+
+### Interactive Treatment FAQ
+
+![Treatment FAQ](screenshots/treatment-faq.png)
